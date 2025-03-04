@@ -5,10 +5,13 @@ import { EmployeDashBoard } from "./components/Dashboard/EmployeDashboard"
 export const App=()=>{
 
   return(<>
-     <Login/> 
+     {/* <Login/>  */}
     {/* <EmployeDashBoard/> */}
-    {/* <AdminDashboard/> */}
+    <AdminDashboard/>
 
   
       </>)
 } 
+
+
+// hello this is for checking
